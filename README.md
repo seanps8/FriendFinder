@@ -1,2 +1,13 @@
 # FriendFinder
-Week 13 HW
+
+This node app demonstrates the use of express and API routing in order to show the user's most compatible friend based on user input. 
+
+
+## Technologies Used
+* Node.js
+* Express.js
+* APIs
+
+
+### Heroku Link
+[https://desolate-badlands-58644.herokuapp.com/]

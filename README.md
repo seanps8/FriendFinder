@@ -7,6 +7,8 @@ This node app demonstrates the use of express and API routing in order to show t
 * Node.js
 * Express.js
 * APIs
+* JQuery
+* Bootstrap
 
 
 ### Heroku Link
